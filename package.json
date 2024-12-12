@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://Ritam-jash.github.io/sky-dragon",
+  "homepage": "https://Ritam-jash.github.io/sky_dragon",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "framer-motion": "^11.0.8",
